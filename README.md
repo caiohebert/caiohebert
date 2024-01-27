@@ -21,7 +21,7 @@
 ##
 
 
-#### 📫 Contact me: caiohebertv@gmail.com
+#### 📫 Contact me
 <div>
   <a href="https://www.linkedin.com/in/caio-hebert/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
+
 
 <!--
 **caiohebert/caiohebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
