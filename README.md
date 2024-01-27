@@ -1,4 +1,4 @@
-# Hi 👋, i'm Caio!
+# Hi 👋, I'm Caio!
 
 
 
